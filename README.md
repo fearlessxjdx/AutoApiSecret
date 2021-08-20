@@ -9,7 +9,7 @@
 * 加密版地址：https://github.com/wangziyingwen/AutoApiSecret
 * 更新日志/旧版：https://github.com/wangziyingwen/Autoapi-test
 
-### 教程总结1 ###
+### 教程总结 ###
 ```
 Fork AutoApiSecret到github；
 
